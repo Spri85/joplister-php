@@ -1,2 +1,0 @@
-# joplister-php
-PHP+MySQL
